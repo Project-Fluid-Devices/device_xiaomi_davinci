@@ -2,8 +2,8 @@
     {
         "clone-depth":  "1",
         "remote":       "fluid-devices",
-        "repository":   "kernel_xiaomi_sm6150",
-        "target_path":  "kernel/xiaomi/sm6150"
+        "repository":   "kernel_xiaomi_davinci",
+        "target_path":  "kernel/xiaomi/davinci"
     },
     {
         "clone-depth":  "1",
