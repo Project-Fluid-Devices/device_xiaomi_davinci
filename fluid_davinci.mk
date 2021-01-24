@@ -43,4 +43,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_PRODUCT_PROPERTIES += \
   ro.fluid.maintainer=Zadli \
-  ro.fluid.cpu=SM6150
+  ro.fluid.cpu=SDM730G
